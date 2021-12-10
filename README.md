@@ -6,7 +6,7 @@
 3. System should support vehicles of twoWheeler and FourWheeler types.
 4. User should be able to unpark a vehicle and ticket should be updated as completed.
 
-## Main Entites
+## Main Entities
 1. Vehicle
 2. ParkingSlot
 3. ParkingTicket
